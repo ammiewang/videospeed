@@ -1,0 +1,29 @@
+body{
+    width: 250px;
+    justify-content: center;
+    text-align: center
+}
+
+h1 {
+  color: white;
+  background: url(titleColors.png) no-repeat;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+button {
+  border: none;
+  height: 25px;
+}
+
+.plusMinus {
+  background-color: #a0f467;
+  /* color: white; */
+  font-weight: bold;
+}
+
+.resetNum {
+  background-color: #f46767;
+  color: white;
+  font-weight: bold;
+}
